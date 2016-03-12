@@ -21,7 +21,6 @@ html,body{height:100%;width:100%;letter-spacing:0.5px;}
   filter:"alpha(opacity=60)";
   -ms-filter:"alpha(opacity=60)"; /* 旧版IE */
 }
-/*.fageIn{-webkit-animation-name: fadeIn;}*/
 .vertical-center {
   min-height: 100%;  
   display: -webkit-box;
