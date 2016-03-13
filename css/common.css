@@ -1,11 +1,11 @@
 html,body{height:100%;width:100%;letter-spacing:0.5px;}
 .navbar-wrapper {
-  margin-top: 30px;
+  margin-top: 50px;
   position: absolute;
   top: 0;
   right: 0;
   left: 0;
-  z-index: 20;
+  z-index: 40;
 }
 .home1{ background-color: #fafafa;
   border-color: #fafafa;
@@ -19,8 +19,7 @@ html,body{height:100%;width:100%;letter-spacing:0.5px;}
   background-size: cover;
   opacity:0.6;
   filter:"alpha(opacity=60)";
-  -ms-filter:"alpha(opacity=60)"; /* 旧版IE */
-}
+  -ms-filter:"alpha(opacity=60)"; }
 .vertical-center {
   min-height: 100%;  
   display: -webkit-box;
@@ -40,5 +39,5 @@ html,body{height:100%;width:100%;letter-spacing:0.5px;}
   -webkit-justify-content : center;
           justify-content : center;
 }
-.vert-text span{font-size: 36px;color: #fff;}
+.vert-text span{font-size: 60px;color: #fff;}
 

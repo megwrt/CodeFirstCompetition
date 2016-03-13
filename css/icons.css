@@ -8,7 +8,7 @@ html {
 
 html {
   background: #0e1925;
-  font-size: 0.625em;
+  font-size: 0.825em;
 }
 
 .soc {
@@ -119,11 +119,11 @@ html {
 }
 
 .icon-8 {
-  color: #6ed926;
-  fill: #6ed926;
+  color: #fafafa;
+  fill: #fafafa;
 }
 .icon-8:hover {
-  background: #6ed926;
+  background: #fafafa;
 }
 
 .icon-9 {
@@ -135,11 +135,11 @@ html {
 }
 
 .icon-10 {
-  color: #26d926;
-  fill: #26d926;
+  color: #fafafa;
+  fill: #fafafa;
 }
 .icon-10:hover {
-  background: #26d926;
+  background: #fafafa;
 }
 
 .icon-11 {
@@ -175,11 +175,11 @@ html {
 }
 
 .icon-15 {
-  color: #26d9d9;
-  fill: #26d9d9;
+  color: #fafafa;
+  fill: #fafafa;
 }
 .icon-15:hover {
-  background: #26d9d9;
+  background: #fafafa;
 }
 
 .icon-16 {
@@ -263,11 +263,11 @@ html {
 }
 
 .icon-26 {
-  color: #d926b5;
-  fill: #d926b5;
+  color: #fafafa;
+  fill: #fafafa;
 }
 .icon-26:hover {
-  background: #d926b5;
+  background: #fafafa;
 }
 
 .icon-27 {
@@ -284,12 +284,4 @@ html {
 }
 .icon-28:hover {
   background: #d9266e;
-}
-
-.icon-29 {
-  color: #d9264a;
-  fill: #d9264a;
-}
-.icon-29:hover {
-  background: #d9264a;
 }
