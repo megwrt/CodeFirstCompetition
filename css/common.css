@@ -1,0 +1,44 @@
+html,body{height:100%;width:100%;letter-spacing:0.5px;}
+.navbar-wrapper {
+  margin-top: 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+.home1{ background-color: #fafafa;
+  border-color: #fafafa;
+  color: #202020;
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/bg_1.jpg);
+  background-position: center center; 
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.6;
+  filter:"alpha(opacity=60)";
+  -ms-filter:"alpha(opacity=60)"; /* 旧版IE */
+}
+.vertical-center {
+  min-height: 100%;  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; 
+    -webkit-box-align : center;
+  -webkit-align-items : center;
+       -moz-box-align : center;
+       -ms-flex-align : center;
+          align-items : center;
+  width: 100%;
+         -webkit-box-pack : center;
+            -moz-box-pack : center;
+            -ms-flex-pack : center;
+  -webkit-justify-content : center;
+          justify-content : center;
+}
+.vert-text span{font-size: 36px;color: #fff;}
+
