@@ -1,0 +1,41 @@
+.Lib_head {
+	font-family:'Marck Script', cursive;
+	Font-size: 100px;
+	margin-bottom: 50px
+}
+.button {
+	text-align: center;
+	margin-top: 60px;
+}
+.lib_row {
+	background: rgba(173, 143, 143, .3);
+	padding: 50px;
+}
+.lib_contain {
+	background-color: rgba(89, 165, 165, 0.5);
+	}
+.lib_p {
+	font-family: "Courgette", cursive;
+	font-size: 20px;
+	color: rgba(162, 51, 107, 1);
+}
+.shop_head {
+	font-family: 'Josefin Slab', serif;
+	font-size: 100px;
+	margin-bottom: 50px;
+}
+.shop_p {
+	font-family: "Bonbon", cursive;
+	font-size: 30px;
+	font-weight: bold;
+	color: rgba(31, 131, 164, 0.8);
+}
+.shop_row {
+	padding: 50px;
+	background-color: rgba(232, 232, 155, 1)
+}
+.shop_contain {
+	background-color: rgba(173, 222, 124, 0.8)
+}
+
+	
