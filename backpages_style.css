@@ -1,5 +1,5 @@
 .Lib_head {
-	font-family:'Marck Script', cursive;
+	font-family:'Josefin Slab', cursive;
 	Font-size: 100px;
 	margin-bottom: 50px
 }
@@ -15,8 +15,8 @@
 	background-color: rgba(89, 165, 165, 0.5);
 	}
 .lib_p {
-	font-family: "Courgette", cursive;
-	font-size: 20px;
+	font-family: "Bonbon", cursive;
+	font-size: 30px;
 	color: rgba(162, 51, 107, 1);
 }
 .shop_head {
@@ -27,7 +27,6 @@
 .shop_p {
 	font-family: "Bonbon", cursive;
 	font-size: 30px;
-	font-weight: bold;
 	color: rgba(31, 131, 164, 0.8);
 }
 .shop_row {
