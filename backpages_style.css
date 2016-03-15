@@ -15,7 +15,8 @@
 	background-color: rgba(89, 165, 165, 0.5);
 	}
 .lib_p {
-	font-family: "Bonbon", cursive;
+	font-family: "Josefin Slab", cursive;
+	font-weight: bold;
 	font-size: 30px;
 	color: rgba(162, 51, 107, 1);
 }
@@ -25,7 +26,8 @@
 	margin-bottom: 50px;
 }
 .shop_p {
-	font-family: "Bonbon", cursive;
+	font-family: "Josefin Slab", cursive;
+	font-weight: bold;
 	font-size: 30px;
 	color: rgba(31, 131, 164, 0.8);
 }
